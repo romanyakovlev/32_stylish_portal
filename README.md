@@ -1,6 +1,6 @@
 # Shared CSS Library
 
-This module allows you to create nginx config for testing css library on several sites.
+This module allows you to create nginx config for testing one css library on several sites.
 
 ## Requirements
 - envtpl
