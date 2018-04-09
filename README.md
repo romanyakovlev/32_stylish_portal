@@ -13,7 +13,7 @@ $ pip install -r requirements
 ```
 
 ## 2. Install nginx
-[Link](http://nginx.org/en/docs/install.html)
+[Link for installing](http://nginx.org/en/docs/install.html)
 
 ## 3. Create symlink for nginx config
 ```sh
