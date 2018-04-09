@@ -2,7 +2,6 @@ user www-data;
 
 events {
     worker_connections 1024;
-
 }
 
 http {
