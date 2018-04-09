@@ -2,6 +2,9 @@
 
 This module allows you to create nginx config for testing css library on several sites.
 
+## Requirements
+- envtpl
+
 # How to Test
 
 ## 1. Install requirements
